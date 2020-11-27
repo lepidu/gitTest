@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class GroupEproject {
-/**Task 1
+/** Task 1
  *
  * @author Bekezhan
  */    
@@ -37,7 +37,7 @@ public class GroupEproject {
             System.out.println("Hey " + name + " " + surname + ", nice to meet you!");
             
         }
-/**Task 2
+/** Task 2
  * @author Kevin Leira 2020364
  */
     static void kevinLeiraMethod(){
@@ -56,7 +56,7 @@ public class GroupEproject {
 }
     
     
-/**Task 3
+/** Task 3
  * @author Shivam Kumar 2020359
  */
 
@@ -85,7 +85,7 @@ public class GroupEproject {
             System.out.println(col);
         }
     }
-/**Task 4
+/** Task 4
  *
  * @author FernandoValle
  */
@@ -97,7 +97,7 @@ public class GroupEproject {
         System.out.println(placeOfBirth+" Wow realy? I have friends there!");
   }    
 
-/**Task 5
+/** Task 5
  * 
  * @author Leisly Pino 2020303
  */    
@@ -126,7 +126,7 @@ public class GroupEproject {
         }
     }
 
-/**Task 6
+/** Task 6
  *
  * @author xiaohui weng2020387
  */
